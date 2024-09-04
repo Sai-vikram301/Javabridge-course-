@@ -1,0 +1,7 @@
+import java.util.Scanner;
+public class Student
+{
+
+
+
+If my age is <= 18 and my salary is above 20000 u are eligible for Loan

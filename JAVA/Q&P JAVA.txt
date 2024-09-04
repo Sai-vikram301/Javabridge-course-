@@ -1,0 +1,7 @@
+writing a program for finding a grade system?
+if my mark is 80 to 100, Print A Grade
+if my mark is 50 to  79, Print B Grade
+if my mark is 35 to  49, Print C Grade
+below 35 Is FAIL
+
+
